@@ -1,1 +1,1 @@
-# Private_cinema_deployment
+As a computer self-studied person, I always search some sources about computer stuff that I am interested in from the internet. During studying myself, I got so much challenges and they took so much time away from me. So I design to create this repository for sharing all my learned to help some people crossing their challenges in order to save their time.
